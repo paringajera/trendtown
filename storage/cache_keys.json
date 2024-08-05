@@ -1,0 +1,31 @@
+{
+    "Botble\\Ecommerce\\Models\\ProductCategory": [
+        "e2df835384821fa5036252a0581ba12b@ecommerce_categories_for_widgets_2faf501f7e7d8ec218c5c4b46a892b7c",
+        "e2df835384821fa5036252a0581ba12b@ecommerce_categories_for_rendering_select2faf501f7e7d8ec218c5c4b46a892b7c",
+        "e2df835384821fa5036252a0581ba12b@ecommerce_categories_for_widgets_e295d05b20cebbe9e6ba39bc815c9f84",
+        "e2df835384821fa5036252a0581ba12b@ecommerce_categories_for_widgets_834e5b418d7a1cf1cf542d07f4875fd9",
+        "e2df835384821fa5036252a0581ba12b@ecommerce_categories_for_rendering_selecte295d05b20cebbe9e6ba39bc815c9f84",
+        "e2df835384821fa5036252a0581ba12b@ecommerce_categories_for_widgets_11ff3eb9558b3afc2a2772d75db679c0",
+        "e2df835384821fa5036252a0581ba12b@ecommerce_categories_for_rendering_select11ff3eb9558b3afc2a2772d75db679c0",
+        "e2df835384821fa5036252a0581ba12b@ecommerce_categories_for_widgets_09d7d077cb5c5c930c5b0caee53511f1",
+        "e2df835384821fa5036252a0581ba12b@ecommerce_categories_for_rendering_select09d7d077cb5c5c930c5b0caee53511f1",
+        "e2df835384821fa5036252a0581ba12b@ecommerce_categories_for_widgets_4a3ab99730b4246e97ddae813d74f4d2",
+        "e2df835384821fa5036252a0581ba12b@ecommerce_categories_for_rendering_select4a3ab99730b4246e97ddae813d74f4d2",
+        "e2df835384821fa5036252a0581ba12b@ecommerce_categories_for_widgets_41ed8ec1d22deee16d26d128d09fe747",
+        "e2df835384821fa5036252a0581ba12b@ecommerce_categories_for_rendering_select41ed8ec1d22deee16d26d128d09fe747",
+        "e2df835384821fa5036252a0581ba12b@ecommerce_categories_for_widgets_3213bf6db00013e15c2264c8cf70bf0e",
+        "e2df835384821fa5036252a0581ba12b@ecommerce_categories_for_widgets_bcd13e8db1d871ee07198bda31197914"
+    ],
+    "Botble\\Menu\\Models\\Menu": [
+        "876a095a247b966461c4079f23f9e7ae@menu_location_bc478b52c181297b7d0a6284c5738ce1",
+        "876a095a247b966461c4079f23f9e7ae@menu_location_262bfd2df21f0d8067005178ab7cee70",
+        "876a095a247b966461c4079f23f9e7ae@menu_location_f567a30d0ef49583f90831fbb9725440",
+        "876a095a247b966461c4079f23f9e7ae@menu_location_42bd9f84d950ef8bd88899f53313bf47",
+        "876a095a247b966461c4079f23f9e7ae@menu_location_6e0cc2de4afe933cb282f54672d5c6f7",
+        "876a095a247b966461c4079f23f9e7ae@menu_location_d5dbc484d2c19c50523ea4c755cb15b0",
+        "876a095a247b966461c4079f23f9e7ae@menu_location_95a4261ffdd00407ffaafc1ddc0ba12c",
+        "876a095a247b966461c4079f23f9e7ae@menu_location_e74c731d5d3fa0edfd437aafc8094e54",
+        "876a095a247b966461c4079f23f9e7ae@menu_location_93e3a47d9f1baa3628d958a7c9c13722",
+        "876a095a247b966461c4079f23f9e7ae@menu_location_0e7a6d756ae1ce48ccfc1253bec7a152"
+    ]
+}
